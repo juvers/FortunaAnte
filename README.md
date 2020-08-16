@@ -40,4 +40,8 @@
 6. Write user service to retrieve data fetched
 7. Validate forms with validator and react-validation
 8. Build login component. Ensure if auth.service login verification is successful, then direct user to profile page using `props.history.push('/profile')` or display an error message
-9. 
+9. Build register page very similarly to login page. Auth.service.register method called to show response message if 200, 400 or 500.
+10. Create profile and get resources from auth.service.getCurrentUser
+11. Create home page for public availability
+12. Build protected components 
+13. Define routes and add navbar
