@@ -38,7 +38,7 @@ export default class BoardModerator extends Component {
           <h3>{this.state.content}</h3>
         </header>
         <div className="grid">
-            <div className="item">
+            <div className="item mod-item">
                 <div className="item__details">
                     Modern Architecture
                 </div>

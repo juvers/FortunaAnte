@@ -38,7 +38,7 @@ export default class BoardAdmin extends Component {
           <h3>{this.state.content}</h3>
         </header>
        <div className="grid">
-            <div className="item">
+            <div className="item admin-item">
                 <div className="item__details">
                     Modern Architecture
                 </div>
