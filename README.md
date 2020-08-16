@@ -30,3 +30,9 @@
 - controllers: controllers to handle signup and signin actions and also return public or protected resources
 - models: useful for sequelize contracting
 - server.js: to import all neccesary modules, initialize app and routes and listen for ocnnections
+
+### Project 
+1. Install react-router-dom as it does not come packaged in react due to isomorphism
+2. Install Bootstrap and include reference in index.js
+3. Create service folder with auth.service, auth.header and user.service
+4. Write signup, login, logout and getcurrentuser functions
