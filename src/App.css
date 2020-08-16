@@ -78,6 +78,9 @@ label {
     counter-increment: item-counter;
 }
 
+
+/* home images */
+
 .item:nth-of-type(3n) {
     background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1017132592.jpg");
 }
@@ -95,60 +98,72 @@ label {
 }
 
 
-/*  */
+/* user images */
+
+.user-item {
+    background: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_328384091.jpg");
+}
 
 .user-item:nth-of-type(3n) {
-    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1151072390.jpg");
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_793935127.jpg");
 }
 
 .user-item:nth-of-type(4n) {
-    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1029335467.jpg");
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1090597565.jpg");
 }
 
 .user-item:nth-of-type(5n) {
-    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1070624348.jpg");
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_160071032.jpg");
 }
 
 .user-item:nth-of-type(6n) {
-    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1129580918.jpg");
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1009311547.jpg");
 }
 
 
-/*  */
+/* moderator images */
+
+.mod-item {
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1523669702.jpg")
+}
 
 .mod-item:nth-of-type(3n) {
-    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1151072390.jpg");
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1247473441.jpg");
 }
 
 .mod-item:nth-of-type(4n) {
-    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1029335467.jpg");
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1277451295.jpg");
 }
 
 .mod-item:nth-of-type(5n) {
-    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1070624348.jpg");
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_134743988.jpg");
 }
 
 .mod-item:nth-of-type(6n) {
-    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1129580918.jpg");
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1388570651.jpg");
 }
 
 
-/*  */
+/* admin images */
+
+.admin-item {
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1513007366.jpg");
+}
 
 .admin-item:nth-of-type(3n) {
-    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1151072390.jpg");
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_139225268.jpg");
 }
 
 .admin-item:nth-of-type(4n) {
-    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1029335467.jpg");
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1399168130.jpg");
 }
 
 .admin-item:nth-of-type(5n) {
-    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1070624348.jpg");
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1420658240.jpg");
 }
 
 .admin-item:nth-of-type(6n) {
-    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1129580918.jpg");
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_149978843.jpg");
 }
 
 .item:after {

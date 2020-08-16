@@ -40,147 +40,147 @@ export default class Home extends Component {
         <div className="grid">
             <div className="item">
                 <div className="item__details">
-                    jelly-o brownie sweet
+                    Modern Architecture
                 </div>
             </div>
             <div className="item item--large">
                 <div className="item__details">
-                    Muffin jelly gingerbread
+                    Ranch-style House
                 </div>
             </div>
             <div className="item item--medium">
                 <div className="item__details">
-                    sesame snaps chocolate
+                    Victorian Architecture
                 </div>
             </div>
             <div className="item item--large">
                 <div className="item__details">
-                    Oat cake
+                    American Craftsman
                 </div>
             </div>
             <div className="item item--full">
                 <div className="item__details">
-                    jujubes cheesecake
+                    Colonial Architecture
                 </div>
             </div>
             <div className="item item--medium">
                 <div className="item__details">
-                    Dragée pudding brownie
+                    Greek Revival Architecture
                 </div>
             </div>
             <div className="item item--large">
                 <div className="item__details">
-                    Oat cake
+                    Gothic Revival Architecture
                 </div>
             </div>
             <div className="item">
                 <div className="item__details">
-                    powder toffee
+                    Mansion
                 </div>
             </div>
             <div className="item item--medium">
                 <div className="item__details">
-                    pudding cheesecake
+                    Italianate Architecture
                 </div>
             </div>
             <div className="item item--large">
                 <div className="item__details">
-                    toffee bear claw
+                    Mid Century Architecture
                 </div>
             </div>
             <div className="item">
                 <div className="item__details">
-                    cake cookie croissant
+                    Vernacular Architecture
                 </div>
             </div>
             <div className="item item--medium">
                 <div className="item__details">
-                    liquorice sweet roll
+                    Prairie School
                 </div>
             </div>
             <div className="item item--medium">
                 <div className="item__details">
-                    chocolate marzipan
+                    Tudor Architecture
                 </div>
             </div>
             <div className="item item--large">
                 <div className="item__details">
-                    danish dessert lollipop
+                    Georgian Architecture
                 </div>
             </div>
             <div className="item">
                 <div className="item__details">
-                    sugar plum dragée
+                    American Colonial
                 </div>
             </div>
             <div className="item">
                 <div className="item__details">
-                    powder toffee
+                    Federal Architecture
                 </div>
             </div>
             <div className="item item--medium">
                 <div className="item__details">
-                    pudding cheesecake
+                    Colonial Revival Architecture
                 </div>
             </div>
             <div className="item item--large">
                 <div className="item__details">
-                    toffee bear claw
+                    Mediterranean Revival Architecture
                 </div>
             </div>
             <div className="item">
                 <div className="item__details">
-                    cake cookie croissant
+                    Pueblo Revival Architecture
                 </div>
             </div>
             <div className="item item--medium">
                 <div className="item__details">
-                    liquorice sweet roll
+                    Stick Style
                 </div>
             </div>
             <div className="item item--medium">
                 <div className="item__details">
-                    chocolate marzipan
+                    Saltbox House
                 </div>
             </div>
             <div className="item item--large">
                 <div className="item__details">
-                    danish dessert lollipop
+                    Elizabethan Architecture
                 </div>
             </div>
             <div className="item">
                 <div className="item__details">
-                    sugar plum dragée
+                    Regency Architecture
                 </div>
             </div>
             <div className="item item--large">
                 <div className="item__details">
-                    danish dessert lollipop
+                    American Foursquare
                 </div>
             </div>
             <div className="item">
                 <div className="item__details">
-                    sugar plum dragée
+                    Gablefront House
                 </div>
             </div>
             <div className="item">
                 <div className="item__details">
-                    powder toffee
+                    Antebellum Architecture
                 </div>
             </div>
             <div className="item item--medium">
                 <div className="item__details">
-                    pudding cheesecake
+                    Spanish Colonial
                 </div>
             </div>
             <div className="item item--large">
                 <div className="item__details">
-                    toffee bear claw
+                    French Colonial
                 </div>
             </div>
             <div className="item">
                 <div className="item__details">
-                    cake cookie croissant
+                    Meo-eclectic Architecture
                 </div>
             </div>
         </div>

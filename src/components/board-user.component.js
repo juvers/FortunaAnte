@@ -40,147 +40,147 @@ export default class BoardUser extends Component {
         <div className="grid">
             <div className="item">
                 <div className="item__details">
-                    jelly-o brownie sweet
+                    Modern Architecture
                 </div>
             </div>
-            <div className="item user-item item--large">
+            <div className="item user-item  item--large">
                 <div className="item__details">
-                    Muffin jelly gingerbread
+                    Ranch-style House
                 </div>
             </div>
-            <div className="item user-item item--medium">
+            <div className="item user-item  item--medium">
                 <div className="item__details">
-                    sesame snaps chocolate
+                    Victorian Architecture
                 </div>
             </div>
-            <div className="item user-item item--large">
+            <div className="item user-item  item--large">
                 <div className="item__details">
-                    Oat cake
+                    American Craftsman
                 </div>
             </div>
-            <div className="item user-item item--full">
+            <div className="item user-item  item--full">
                 <div className="item__details">
-                    jujubes cheesecake
+                    Colonial Architecture
                 </div>
             </div>
-            <div className="item user-item item--medium">
+            <div className="item user-item  item--medium">
                 <div className="item__details">
-                    Dragée pudding brownie
+                    Greek Revival Architecture
                 </div>
             </div>
-            <div className="item user-item item--large">
+            <div className="item user-item  item--large">
                 <div className="item__details">
-                    Oat cake
-                </div>
-            </div>
-            <div className="item">
-                <div className="item__details">
-                    powder toffee
-                </div>
-            </div>
-            <div className="item user-item item--medium">
-                <div className="item__details">
-                    pudding cheesecake
-                </div>
-            </div>
-            <div className="item user-item item--large">
-                <div className="item__details">
-                    toffee bear claw
+                    Gothic Revival Architecture
                 </div>
             </div>
             <div className="item">
                 <div className="item__details">
-                    cake cookie croissant
+                    Mansion
                 </div>
             </div>
-            <div className="item user-item item--medium">
+            <div className="item user-item  item--medium">
                 <div className="item__details">
-                    liquorice sweet roll
+                    Italianate Architecture
                 </div>
             </div>
-            <div className="item user-item item--medium">
+            <div className="item user-item  item--large">
                 <div className="item__details">
-                    chocolate marzipan
-                </div>
-            </div>
-            <div className="item user-item item--large">
-                <div className="item__details">
-                    danish dessert lollipop
+                    Mid Century Architecture
                 </div>
             </div>
             <div className="item">
                 <div className="item__details">
-                    sugar plum dragée
+                    Vernacular Architecture
+                </div>
+            </div>
+            <div className="item user-item  item--medium">
+                <div className="item__details">
+                    Prairie School
+                </div>
+            </div>
+            <div className="item user-item  item--medium">
+                <div className="item__details">
+                    Tudor Architecture
+                </div>
+            </div>
+            <div className="item user-item  item--large">
+                <div className="item__details">
+                    Georgian Architecture
                 </div>
             </div>
             <div className="item">
                 <div className="item__details">
-                    powder toffee
-                </div>
-            </div>
-            <div className="item user-item item--medium">
-                <div className="item__details">
-                    pudding cheesecake
-                </div>
-            </div>
-            <div className="item user-item item--large">
-                <div className="item__details">
-                    toffee bear claw
+                    American Colonial
                 </div>
             </div>
             <div className="item">
                 <div className="item__details">
-                    cake cookie croissant
+                    Federal Architecture
                 </div>
             </div>
-            <div className="item user-item item--medium">
+            <div className="item user-item  item--medium">
                 <div className="item__details">
-                    liquorice sweet roll
+                    Colonial Revival Architecture
                 </div>
             </div>
-            <div className="item user-item item--medium">
+            <div className="item user-item  item--large">
                 <div className="item__details">
-                    chocolate marzipan
-                </div>
-            </div>
-            <div className="item user-item item--large">
-                <div className="item__details">
-                    danish dessert lollipop
+                    Mediterranean Revival Architecture
                 </div>
             </div>
             <div className="item">
                 <div className="item__details">
-                    sugar plum dragée
+                    Pueblo Revival Architecture
                 </div>
             </div>
-            <div className="item user-item item--large">
+            <div className="item user-item  item--medium">
                 <div className="item__details">
-                    danish dessert lollipop
+                    Stick Style
                 </div>
             </div>
-            <div className="item">
+            <div className="item user-item  item--medium">
                 <div className="item__details">
-                    sugar plum dragée
+                    Saltbox House
                 </div>
             </div>
-            <div className="item">
+            <div className="item user-item  item--large">
                 <div className="item__details">
-                    powder toffee
-                </div>
-            </div>
-            <div className="item user-item item--medium">
-                <div className="item__details">
-                    pudding cheesecake
-                </div>
-            </div>
-            <div className="item user-item item--large">
-                <div className="item__details">
-                    toffee bear claw
+                    Elizabethan Architecture
                 </div>
             </div>
             <div className="item">
                 <div className="item__details">
-                    cake cookie croissant
+                    Regency Architecture
+                </div>
+            </div>
+            <div className="item user-item  item--large">
+                <div className="item__details">
+                    American Foursquare
+                </div>
+            </div>
+            <div className="item">
+                <div className="item__details">
+                    Gablefront House
+                </div>
+            </div>
+            <div className="item">
+                <div className="item__details">
+                    Antebellum Architecture
+                </div>
+            </div>
+            <div className="item user-item  item--medium">
+                <div className="item__details">
+                    Spanish Colonial
+                </div>
+            </div>
+            <div className="item user-item  item--large">
+                <div className="item__details">
+                    French Colonial
+                </div>
+            </div>
+            <div className="item">
+                <div className="item__details">
+                    Neo-eclectic Architecture
                 </div>
             </div>
         </div>
