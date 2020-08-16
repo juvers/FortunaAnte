@@ -37,3 +37,7 @@
 3. Create service folder with auth.service, auth.header and user.service
 4. Write signup, login, logout and getcurrentuser functions
 5. Write auth header service to retrieve user from local storage and use access token in the returned HTTP Authorization header otherwise return null. Note that in express x-access-token is used and nt Authorization in header.
+6. Write user service to retrieve data fetched
+7. Validate forms with validator and react-validation
+8. Build login component. Ensure if auth.service login verification is successful, then direct user to profile page using `props.history.push('/profile')` or display an error message
+9. 
