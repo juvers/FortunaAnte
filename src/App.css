@@ -94,6 +94,63 @@ label {
     background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1129580918.jpg");
 }
 
+
+/*  */
+
+.user-item:nth-of-type(3n) {
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1151072390.jpg");
+}
+
+.user-item:nth-of-type(4n) {
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1029335467.jpg");
+}
+
+.user-item:nth-of-type(5n) {
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1070624348.jpg");
+}
+
+.user-item:nth-of-type(6n) {
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1129580918.jpg");
+}
+
+
+/*  */
+
+.mod-item:nth-of-type(3n) {
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1151072390.jpg");
+}
+
+.mod-item:nth-of-type(4n) {
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1029335467.jpg");
+}
+
+.mod-item:nth-of-type(5n) {
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1070624348.jpg");
+}
+
+.mod-item:nth-of-type(6n) {
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1129580918.jpg");
+}
+
+
+/*  */
+
+.admin-item:nth-of-type(3n) {
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1151072390.jpg");
+}
+
+.admin-item:nth-of-type(4n) {
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1029335467.jpg");
+}
+
+.admin-item:nth-of-type(5n) {
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1070624348.jpg");
+}
+
+.admin-item:nth-of-type(6n) {
+    background-image: url("https://fortunehomes.s3.us-east-2.amazonaws.com/fortune-homes/shutterstock_1129580918.jpg");
+}
+
 .item:after {
     content: "";
     position: absolute;
