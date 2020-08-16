@@ -36,3 +36,4 @@
 2. Install Bootstrap and include reference in index.js
 3. Create service folder with auth.service, auth.header and user.service
 4. Write signup, login, logout and getcurrentuser functions
+5. Write auth header service to retrieve user from local storage and use access token in the returned HTTP Authorization header otherwise return null. Note that in express x-access-token is used and nt Authorization in header.
